@@ -3,6 +3,10 @@ Shiny App Presentation: Solar Sunrise & Sunset around the World from a date
 author: Xavi Jacas
 date: 23-1-2015
 
+```
+                   sunrise              sunset
+newlon 2015-01-01 05:59:41 2015-01-01 18:07:10
+```
 https://xavijacas.shinyapps.io/ShinyApp
 
 Presentation
@@ -64,9 +68,11 @@ Example, Greenland
 
 ![Greenland Sunrise Sunset](../img/screenshot.png)
 
+<small style="font-size:.3em">
 ref:
 http://artax.karlin.mff.cuni.cz/r-help/library/StreamMetabolism/html/sunrise.set.html
 http://stat.ethz.ch/R-manual/R-devel/library/graphics/html/hist.POSIXt.html
 http://www.w3schools.com/htmL/html5_geolocation.asp
 http://www.w3schools.com/htmL/tryit.asp?filename=tryhtml5_geolocation_map
 http://www.datanalytics.com/2014/10/14/amanece-me-cuenta-que-no-es-poco/
+</small>
