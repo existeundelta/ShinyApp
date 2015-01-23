@@ -67,7 +67,11 @@ shinyUI(fluidPage(
           document.getElementById("mapholder").innerHTML = "<img src="+img_url+">";
         }
         </script>              
-       
+        <a href="https://github.com/existeundelta/ShinyApp">GitHub repository</a>
+        <br/>
+        <a href="../doc/PPT.html">App Presentation</a>
+     
+
     '))
   ),
   mainPanel(

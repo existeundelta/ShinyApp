@@ -3,6 +3,8 @@ Shiny App Presentation: Solar Sunrise & Sunset around the World from a date
 author: Xavi Jacas
 date: 23-1-2015
 
+https://xavijacas.shinyapps.io/ShinyApp
+
 Presentation
 ========================================================
 <small style="font-size:.8em">
