@@ -13,3 +13,6 @@ Once that is done, the user can change:
   - a button to update de map to see the map part of that part world (by lat/lon)
   
 the graphic shows sunrise and sunset Times for this variables.
+
+https://xavijacas.shinyapps.io/ShinyApp/
+http://rpubs.com/existeundelta/55272
