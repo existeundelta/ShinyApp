@@ -69,7 +69,7 @@ shinyUI(fluidPage(
         </script>              
         <a href="https://github.com/existeundelta/ShinyApp">GitHub repository</a>
         <br/>
-        <a href="../doc/PPT.html">App Presentation</a>
+        <a href="http://rpubs.com/existeundelta/55272">App Presentation</a>
      
 
     '))
