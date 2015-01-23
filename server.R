@@ -40,7 +40,7 @@ shinyServer(function(input, output, clientData) {
     time <- get.sunrise(lat, lon, input$date,input$n)
     plot(time$sunrise , ylab='Time UTC',xlab='Days', col='red',main='Solar Events', ylim=c(0,24))
     par(new=T)
-    plot(time$sunset, ylab='Time',xlab='Days', col='Midnight Blue',main='Solar Events', ylim=c(0,24))
+    plot(time$sunset, ylab='Time UTC',xlab='Days', col='Midnight Blue',main='Solar Events', ylim=c(0,24))
     par(new=F)
     legend('topright', pch=c(19,19),col=c('Midnight Blue','red'),legend=c('Sunset','Sunrise'))
   })
